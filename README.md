@@ -1,3 +1,6 @@
+```
+https://freedium-mirror.cfd/https://medium.com/@kandalkaramit123/how-spring-boot-actually-handles-http-requests-5859086dee92
+```
 Let me break down how Spring Boot handles HTTP requests with detailed real-world use cases.
 
 ## Complete HTTP Request Flow in Spring Boot
@@ -818,6 +821,9 @@ This mental model is essential for any Spring Boot developer. Most bugs aren't S
 
 ----------------
 
+```
+https://freedium-mirror.cfd/https://medium.com/@sunil17bbmp/10-real-world-spring-boot-architecture-tips-every-developer-should-know-58acdd63846f
+```
 
 Let me break down each of the 10 Spring Boot architecture tips with real-world scenarios and practical use cases.
 
